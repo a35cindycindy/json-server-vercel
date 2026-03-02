@@ -8,7 +8,7 @@
     "width": "120",
     "depth": "60",
     "height": "200",
-    "image":"/images/cabinet-1.png",
+    "image": "https://picsum.photos/200",
     "id": "oT6tgC3"
   },
   {
@@ -20,7 +20,7 @@
     "width": "180",
     "depth": "90",
     "height": "85",
-    "image":"/images/cabinet-2.png",
+    "image": "https://picsum.photos/200",
     "id": "ZCyERjf"
   },
   {
@@ -32,7 +32,7 @@
     "width": "65",
     "depth": "65",
     "height": "110",
-    "image":"/images/cabinet-3.png",
+    "image": "https://picsum.photos/200",
     "id": "WiNSFon"
   },
   {
@@ -44,7 +44,7 @@
     "width": "105",
     "depth": "188",
     "height": "30",
-    "image":"/images/cabinet-4.png",
+    "image": "https://picsum.photos/200",
     "id": "uZhw4n6"
   },
   {
@@ -56,7 +56,7 @@
     "width": "90",
     "depth": "45",
     "height": "180",
-    "image":"/images/cabinet-5.png",
+    "image": "https://picsum.photos/200",
     "id": "aw4vuCU"
   }
 ]
